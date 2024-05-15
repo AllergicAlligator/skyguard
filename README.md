@@ -16,4 +16,7 @@
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ## Line Notify
+* [Line Notify Help](https://help2.line.me/line_notify/web/pc?lang=zh-Hant)
+* [取得 Line Notify Token](https://notify-bot.line.me/en/)
+* [Line Notify API Document](https://notify-bot.line.me/doc/en/)
 * [Line Notify 簡介](https://github.com/vcdemy/linenotify)
