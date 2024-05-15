@@ -3,7 +3,7 @@
 ## Ocean Challenge 2024 Slides
 * https://ppt.cc/f7rLex
 
-## Ground Station Software:
+## Ground Station Software
 * [Choosing a Ground Station](https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html) 
 * [Mission Planner](https://github.com/ArduPilot/MissionPlanner)
 * [QGroundControl, QGC](http://qgroundcontrol.com/)
