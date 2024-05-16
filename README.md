@@ -23,5 +23,5 @@
 
 ## Download Line Notify Module
 ```bash
-!curl -o linenotify.py https://github.com/AllergicAlligator/skyguard/raw/main/linenotify.py
+!curl -o linenotify.py https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
 ```
