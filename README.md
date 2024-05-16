@@ -20,3 +20,7 @@
 * [取得 Line Notify Token](https://notify-bot.line.me/en/)
 * [Line Notify API Document](https://notify-bot.line.me/doc/en/)
 * [Line Notify 簡介](https://github.com/vcdemy/linenotify)
+
+```bash
+!curl -o linenotify.py https://raw.githubusercontent.com/AllergicAlligator/skyguard/linenotify.py
+```
