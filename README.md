@@ -21,6 +21,7 @@
 * [Line Notify API Document](https://notify-bot.line.me/doc/en/)
 * [Line Notify 簡介](https://github.com/vcdemy/linenotify)
 
+## Download Line Notify Module
 ```bash
-!curl -o linenotify.py https://raw.githubusercontent.com/AllergicAlligator/skyguard/linenotify.py
+!curl -o linenotify.py https://github.com/AllergicAlligator/skyguard/raw/main/linenotify.py
 ```
