@@ -45,10 +45,10 @@ Budget for thie proposal is mainly allocated for drones (parts, assembly, and te
 #### SITL
 * [SITL Simulator (Software in the loop)](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html)
 
-  If you are using Mission Planner，you can download SITL from simulation section of it.  If you are using QGC, you will need to install SITL manually.
+  If you use Mission Planner，you can download and connect SITL from its simulation section.  If you use QGC, you will need to install SITL manually.
 
-  Mission Planner is written in C#, so it would be a little bit tricky to use it on a macbook.  Similarly, it is also tricky to use SITL on a macbook.
-
+  `Mission Planner is written in C#, so it would be a little bit tricky to install and use it on a macbook.`
+  
 #### pymavlink tutorial
 * [pymavlink turtorial](https://www.youtube.com/watch?v=kecnaxlUiTY&list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou)
 * [How To Start a Mission Using Pymavlink](https://www.youtube.com/watch?v=pAAN055XCxA)
