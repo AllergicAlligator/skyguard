@@ -45,7 +45,9 @@ Budget for thie proposal is mainly allocated for drones (parts, assembly, and te
 #### SITL
 * [SITL Simulator (Software in the loop)](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html)
 
-  If you use Mission Planner，you can download and connect SITL from its simulation section.  If you use QGC, you will need to install SITL manually.
+  If you use Mission Planner，you can download and connect SITL from its simulation section.
+
+  If you use QGC, you will need to install SITL manually.
 
   `Mission Planner is written in C#, so it would be a little bit tricky to install and use it on a macbook.`
   
