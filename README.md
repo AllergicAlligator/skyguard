@@ -13,6 +13,7 @@
 |Marvin Cheng|Member|Software Development (Real-Time Notification)|
 
 ## Work Schedule
+Work items for each month is as follows:
 |Task|1|2|3|4|5|6|
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 |Drone Assembly and Testing|X|X|X|X|||
@@ -24,7 +25,7 @@
 
 ## Budget Planning
 
-Budget for thie proposal is mainly allocated for drone (parts, assembly, and testing) and flight coaches.  For details, please check the proposal sent to Ocean Challenge 2024 Committee.
+Budget for thie proposal is mainly allocated for drones (parts, assembly, and testing) and flight coaches.  For details, please check the proposal sent to Ocean Challenge 2024 Committee.
 
 ## Relevant Resources
 
