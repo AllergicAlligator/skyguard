@@ -18,7 +18,7 @@
 |System Integration||||X|X|X|
 |Integration Testing|||||X|X|
 |Seeking Collaboration with external resources||X|X|X|X|X|
-|Drone Assembly and Testing|10%|25%|40%|60%|80%|100%|
+|% of completion|10%|25%|40%|60%|80%|100%|
 
 ## Ocean Challenge 2024 Slides
 * https://ppt.cc/fA5G0x
