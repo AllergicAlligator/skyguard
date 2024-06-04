@@ -58,14 +58,17 @@ For details, please check the proposal sent to Ocean Challenge 2024 Competition 
 * [How To Start a Mission Using Pymavlink](https://www.youtube.com/watch?v=pAAN055XCxA)
 
 ### 2. Automatic Garbage Classification
-#### Teachable Machine
+#### Google Teachable Machine
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
-
+  A tool to quickly train a model for classification.
+  
 #### Google Colab
 * https://colab.research.google.com/
-
+  The online development environment used in our project.
+  
 #### Keras
 * https://www.tensorflow.org/guide/keras
+  Keras is a deep learning framework. The code snippets provided by `Teachable Machine` actually use keras to load the trained model for classification.
 
 ### 3. Real-Time Notification
 
