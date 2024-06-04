@@ -1,7 +1,27 @@
 # Ocean Challenge 2024
 
+## Teamwork Allocation
+|Name|Role|Job Description|
+|:--|:--|:--|
+|Tiffany Gau|Captain|Software Development, Project Management, Budget Planning, Public Relationship|
+|Daniel Gau|Member|Software Development (Auto Patrol)|
+|Oliver Chen|Member|Software Development (Auto Patrol) |
+|Hong Lai|Member|Software Development (Deep Learning)|
+|Marvin Cheng|Member|Software Development (Real-Time Notification)|
+
+## Work Schedule
+
+|Task|1|2|3|4|5|6|
+|:--|:-:|:-:|:-:|:-:|:-:|:-:|
+|Drone Assembly and Testing|X|X|X|X|||
+|Software Development and Testing|X|X|X|X|X|X|
+|System Integration||||X|X|X|
+|Integration Testing|||||X|X|
+|Seeking Collaboration with external resources||X|X|X|X|X|
+|Drone Assembly and Testing|10%|25%|40%|60%|80%|100%|
+
 ## Ocean Challenge 2024 Slides
-* https://ppt.cc/f7rLex
+* https://ppt.cc/fA5G0x
 
 ## Ground Station Software
 * [Choosing a Ground Station](https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html) 
@@ -30,5 +50,5 @@
 
 ## Download Line Notify Module
 ```bash
-!curl -o linenotify.py https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
+!curl -o linenotify.py https://raw.githubusercontent.com/AllergicAlligator/skyguard/main/linenotify.py
 ```
