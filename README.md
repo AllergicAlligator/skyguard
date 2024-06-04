@@ -1,6 +1,6 @@
 # Ocean Challenge 2024
 
-## Ocean Challenge 2024 Slides
+## Presentation Slides
 * https://ppt.cc/fA5G0x
 
 ## Teamwork Allocation
