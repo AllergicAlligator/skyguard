@@ -1,5 +1,12 @@
 # Ocean Challenge 2024
 
+Our preliminary experiment results are divided into three parts:
+1. Auto Patrol
+2. Automatic Garbage Classification
+3. Real-Time Notification
+
+Please check the slides below for the details.
+
 ## Presentation Slides
 * https://ppt.cc/fA5G0x
 
@@ -29,32 +36,42 @@ Budget for thie proposal is mainly allocated for drones (parts, assembly, and te
 
 ## Relevant Resources
 
-### Ground Station Software
+### 1. Auto Patrol
+#### Ground Station Software
 * [Choosing a Ground Station](https://ardupilot.org/copter/docs/common-choosing-a-ground-station.html) 
 * [Mission Planner](https://github.com/ArduPilot/MissionPlanner)
 * [QGroundControl, QGC](http://qgroundcontrol.com/)
 
-### SITL
+#### SITL
 * [SITL Simulator (Software in the loop)](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html)
 
   If you are using Mission Planner，you can download SITL from simulation section of it.  If you are using QGC, you will need to install SITL manually.
 
   Mission Planner is written in C#, so it would be a little bit tricky to use it on a macbook.  Similarly, it is also tricky to use SITL on a macbook.
 
-### pymavlink tutorial
+#### pymavlink tutorial
 * [pymavlink turtorial](https://www.youtube.com/watch?v=kecnaxlUiTY&list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou)
 * [How To Start a Mission Using Pymavlink](https://www.youtube.com/watch?v=pAAN055XCxA)
 
-### Teachable Machine
+### 2. Automatic Garbage Classification
+#### Teachable Machine
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
-### Line Notify
+#### Google Colab
+* https://colab.research.google.com/
+
+#### Keras
+* https://www.tensorflow.org/guide/keras
+
+### 3. Real-Time Notification
+
+#### Line Notify
 * [Line Notify Help](https://help2.line.me/line_notify/web/pc?lang=zh-Hant)
 * [Generate Line Notify Token](https://notify-bot.line.me/en/)
 * [Line Notify API Document](https://notify-bot.line.me/doc/en/)
 * [Introduction to Line Notify](https://github.com/vcdemy/linenotify)
 
-### Download Line Notify Module in Colab
+#### Download Line Notify Module in Colab
 ```bash
 !curl -o linenotify.py https://raw.githubusercontent.com/AllergicAlligator/skyguard/main/linenotify.py
 ```
