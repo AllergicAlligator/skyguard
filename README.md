@@ -32,7 +32,9 @@ Work items for each month is as follows:
 
 ## Budget Planning
 
-Budget for thie proposal is mainly allocated for drones (parts, assembly, and testing) and flight coaches.  For details, please check the proposal sent to Ocean Challenge 2024 Committee.
+Budget for thie proposal is mainly allocated for drones (parts, assembly, and testing) and flight coaches.
+
+For details, please check the proposal sent to Ocean Challenge 2024 Competition Committee.
 
 ## Relevant Resources
 
